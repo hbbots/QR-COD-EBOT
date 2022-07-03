@@ -1,7 +1,6 @@
-# QR-COD-EBOT
+ **_QR CODE BOT
+How To Use_**
 
-
-How To Use
 <p align="center">
 <a href="http://www.youtube.com/watch?v=nfWjbuQqgJc"><img src="https://img.shields.io/badge/How%20To%20Use%20Check%20My%20Youtube%20Video-orange.svg?logo=Youtube"></a>
 
