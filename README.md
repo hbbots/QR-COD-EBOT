@@ -1,5 +1,4 @@
-<p align="center">
-QR CODE BOT  
+**_A SIMPLE QR CODE GENERATOR BOT_**  
    <p align="center">
    How To Use
 
