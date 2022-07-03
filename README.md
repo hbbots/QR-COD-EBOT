@@ -1,5 +1,6 @@
 <p align="center">
 QR CODE BOT  
+   <p align="center">
    How To Use
 
 <p align="center">
