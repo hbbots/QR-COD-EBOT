@@ -184,7 +184,7 @@ async def cb_data(bot, update):
     elif update.data == "generate":
         await  HB.send_photo(
         chat_id = update.message.chat.id,
-        photo='hb.png',
+        photo='HB.png',
         caption=result_text,
         reply_markup=result_buttons
         )  
