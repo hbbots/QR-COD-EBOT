@@ -1,4 +1,5 @@
- **_QR CODE BOT  
+<p align="center">
+**_QR CODE BOT  
    How To Use_**
 
 <p align="center">
