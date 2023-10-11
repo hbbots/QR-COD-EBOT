@@ -32,7 +32,7 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/DX-MODS/heroku-buildpack-ffmpeg-latest.git"
   }, {
     "url": "heroku/python"
   }],
