@@ -31,15 +31,9 @@
   },
   "addons": [
   ],
-  "buildpacks": [{
-    "url": "https://github.com/DX-MODS/heroku-buildpack-ffmpeg-latest.git"
-  }, {
-    "url": "heroku/python"
-  }],
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "free"
-    }
-  }
+  "buildpacks": [
+        {
+            "url": "https://github.com/DX-MODS/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
 }
