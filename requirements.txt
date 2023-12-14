@@ -1,4 +1,4 @@
-tgcrypto
-pyrogram
+pyrogram==2.0.30
+tgcrypto==1.2.5
 pyqrcode
 pypng
